@@ -13,6 +13,3 @@ app.get('/', (req, res, next) => {
 });
 
 module.exports = app; // para que se pueda usar fuera de aquí
-
-
-
